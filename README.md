@@ -18,9 +18,13 @@ The projects is migrated from the official [Google Services Gradle Plugin](https
 3. After running the above commands, a file `values.xml` will be created at `Interm/values/` directory. Make sure these folders exists before running the above commands.
 
 **Libraries used**
+
 libs/gson-2.8.7.jar
+
 libs/guava-27.0.1-jre.jar
 
+
 **Development**
+
 Feel free to contribute to the project by opening issues and creating pull requests.
 
