@@ -1,5 +1,5 @@
 # Google Services Java Plugin
-A tool to generate Google Services XML Resource File(values.java) from Google Services JSON File(google-services.json).
+A tool to generate Google Services Resource File(values.xml) from Google Services JSON File(google-services.json).
 
 The projects is migrated from the official [Google Services Gradle Plugin](https://github.com/google/play-services-plugins/tree/master/google-services-plugin) Repository and is not being officially maitaind by Google. The project aims to help open source community. Thus owner of this repository is ready to resolve Copyright Issues if there are any.
 
