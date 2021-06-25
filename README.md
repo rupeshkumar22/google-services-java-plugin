@@ -5,7 +5,7 @@ The projects is migrated from the official [Google Services Gradle Plugin](https
 
 
 
-**Usage**
+**Usage:**
 1. Place `google-services.json` file in the root directory.
 2. Run commands the following commands one by one:
 
@@ -21,7 +21,7 @@ The projects is migrated from the official [Google Services Gradle Plugin](https
 
 
 
-**Libraries used**
+**Libraries Used:**
 
 libs/gson-2.8.7.jar
 
@@ -30,7 +30,7 @@ libs/guava-27.0.1-jre.jar
 
 
 
-**Development**
+**Development:**
 
 Feel free to contribute to the project by opening issues and creating pull requests.
 
