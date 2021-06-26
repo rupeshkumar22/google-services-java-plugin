@@ -14,6 +14,11 @@
  * limitations under the License.
  */
 
+/*
+Refer the following link for original code of Google Services Gradle Plugin(this is modified from that code to use it with java):
+https://github.com/google/play-services-plugins/tree/master/google-services-plugin
+*/
+
 import java.io.File;
 import java.util.TreeMap;
 import java.util.Map;
